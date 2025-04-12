@@ -1,7 +1,6 @@
 //Task-1,Number Game with 3 rounds
 import java.util.*;
 
-
 class NumberGame
 {
 public static void main(String args[])
@@ -10,7 +9,6 @@ Scanner sc = new Scanner(System.in);
 int random =  (int)(Math.random()*100)+1; //generate a random number
 int guess;
 int nooftries=0;
-
 
 System.out.println("Welcome to number world where you can see all the numbers and alphabets");
 System.out.println("Game Rules:1 st and 2nd round are almost same ,In round-1 you will have 5 trails to guess the correct number,in round-2 there will be only 3 trails to guess the number,round-3 contains basic math problem");
@@ -85,7 +83,7 @@ System.out.println("Congrats!!,You made it,Round 3 Winner,R-3 score = 10");
 }
 else 
 {
-System.out.println("Sorry, you didnt pass round 3 ,try again");
+System.out.println("Sorry, you didn't pass round 3 ,try again");
 }
 }
 }
