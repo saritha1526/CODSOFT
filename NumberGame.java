@@ -35,6 +35,7 @@ break;
 System.out.println("no of tries = "+nooftries);
 System.out.println("Random Integer in Round 1 (1-100):"+random);
 
+  
 //round2
 System.out.println("Round 2");
 int g1,n1=0;
@@ -87,12 +88,6 @@ System.out.println("Sorry, you didn't pass round 3 ,try again");
 }
 }
 }
-
-
-
-
-
-
 
 
 
