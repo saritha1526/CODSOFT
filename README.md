@@ -1,2 +1,2 @@
 # CODSOFT
-Java  development internship 
+Java  developer internship 
